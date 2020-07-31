@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👨🏻‍💻 this.doDopeThings()
+
+## Making things and breaking things
+
+Exploring Art, Tech, and Entrepreneurship
 
 <!--
 **JuanCarlosC/JuanCarlosC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
