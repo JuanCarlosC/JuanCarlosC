@@ -1,20 +1,11 @@
-### 👨🏻‍💻 this.doDopeThings()
+https://github.com/JuanCarlosC/JuanCarlosC/blob/master/README.md### 👨🏻‍💻 this.doDopeThings()
 
-## Making things
+## Making cool things with code
 
 Exploring Art, Tech, and Entrepreneurship
 
-<!--
-**JuanCarlosC/JuanCarlosC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a couple projects with Apple Inc.
+- 🌱 I’m currently learning kubernetes and docker
+- 💬 Ask me about web development and design
+- 📫 How to reach me: hey@juancchavez.com
+- ⚡ Fun fact: I once shook Tim Cook's hand at Coachella
