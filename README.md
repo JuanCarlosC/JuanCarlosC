@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 this.doDopeThings()
 
-## Making things and breaking things
+## Making things
 
 Exploring Art, Tech, and Entrepreneurship
 
