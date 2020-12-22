@@ -1,4 +1,4 @@
-https://github.com/JuanCarlosC/JuanCarlosC/blob/master/README.md### 👨🏻‍💻 this.doDopeThings()
+👨🏻‍💻 this.doDopeThings()
 
 ## Making cool things with code
 
