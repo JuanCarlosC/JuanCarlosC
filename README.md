@@ -1,6 +1,6 @@
 👨🏻‍💻 this.doDopeThings()
 
-## Making cool things with code
+## Building stuff with code + design + coffee
 
 Exploring Art, Tech, and Entrepreneurship
 
