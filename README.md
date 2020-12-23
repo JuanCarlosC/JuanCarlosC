@@ -4,7 +4,7 @@
 
 Exploring Art, Tech, and Entrepreneurship
 
-- 🔭 I’m currently working on a couple projects with Apple Inc.
+- 🔭 I’m currently working on a project with Apple Inc.
 - 🌱 I’m currently learning kubernetes and docker
 - 💬 Ask me about web development and design
 - 📫 How to reach me: hey@juancchavez.com
